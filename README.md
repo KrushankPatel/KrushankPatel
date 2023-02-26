@@ -2,22 +2,22 @@
 
 <!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Krushank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Krushank--01629954/)](https://www.linkedin.com/in/krushank-patel-24b825252)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/21152402/krushank-patel)
+[![Website Badge](https://img.shields.io/badge/WebSite-Krushank-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Krushank-yellow)](https://stackoverflow.com/users/21152402/krushank-patel)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs) front-end development (React, ReactJs,Redux,Three Js HTML5, CSS3, Javascript, Responsive), Server Administrator(AWS),database(MongoDB), CI/CD(Docker)
+Full Stack Web Developer and
+The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs) front-end development (React, ReactJs,Redux,Three Js HTML5, CSS3, Javascript, Responsive), Server Administrator(AWS),database(MongoDB), CI/CD(Docker)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
-<div>
+<!-- <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
   </a>
-</div>
+</div> -->
 
 Languages and Tools: 
 
