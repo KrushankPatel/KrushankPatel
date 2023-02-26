@@ -25,41 +25,41 @@ Languages and Tools:
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="bootstrap" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon-thumbnail.png" alt="css3" width="40" height="40" />
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon-thumbnail.png" alt="css3" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" alt="docker" width="40" height="40" />
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" alt="docker" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" alt="express" width="120" height="40" />
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" alt="express" width="120" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40" />
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" alt="html5" width="40" height="40" />
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" alt="html5" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://ih1.redbubble.net/image.316760221.5828/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="javascript" width="40" height="40" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://ih1.redbubble.net/image.316760221.5828/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="javascript" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="40" height="40" />
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="120" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="120" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40" />
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" />
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" />
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYq35wIe6UgRB_eZ-p84XKMippCgl0KobVGA&usqp=CAU" alt="redux" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     
 ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
