@@ -22,8 +22,8 @@ The crossover between design and programming has always been of interest to me. 
 
 Languages and Tools: 
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">&nbsp;&nbsp;
-        <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="bootstrap" width="40" height="40" />&nbsp;&nbsp;
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="bootstrap" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon-thumbnail.png" alt="css3" width="40" height="40" />
