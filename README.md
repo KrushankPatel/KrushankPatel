@@ -55,7 +55,7 @@ Languages and Tools:
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="120" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="120" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="90" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
