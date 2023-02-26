@@ -22,6 +22,8 @@ The crossover between design and programming has always been of interest to me. 
 
 Languages and Tools: 
 
+<div></div>
+<div></div>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="bootstrap" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
@@ -46,7 +48,7 @@ Languages and Tools:
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="120" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <div>&nbsp</div>
+    <div></div>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="120" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
