@@ -26,7 +26,7 @@ Languages and Tools:
         <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="bootstrap" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" alt="docker" width="40" height="40" />
