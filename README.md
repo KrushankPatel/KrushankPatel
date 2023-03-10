@@ -32,9 +32,6 @@ Languages and Tools:
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon-thumbnail.png" alt="css3" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-<!--     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" alt="docker" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </a> -->
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" alt="express" width="120" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
