@@ -14,12 +14,12 @@ The crossover between design and programming has always been of interest to me. 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 <div height="40">&nbsp;</div>
 
-<div>
+<!-- <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
   </a>
-</div>
+</div> -->
 <div height="40">&nbsp;</div>
 
 Languages and Tools: 
@@ -32,9 +32,9 @@ Languages and Tools:
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon-thumbnail.png" alt="css3" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" alt="docker" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </a>
+    </a> -->
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" alt="express" width="120" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
@@ -52,7 +52,7 @@ Languages and Tools:
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="120" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://threejs.org/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPamQQAuRmiDNZ03yhDSUCQF3gmzFKK4iXAird5m5_1w&s" alt="Threejs" width="120" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPamQQAuRmiDNZ03yhDSUCQF3gmzFKK4iXAird5m5_1w&s" alt="Threejs" width="120" height="90" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="90" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
