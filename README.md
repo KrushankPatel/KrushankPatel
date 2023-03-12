@@ -54,10 +54,10 @@ Languages and Tools:
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" alt="express" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" alt="express" width="120" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="120" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
 ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
 <!--
