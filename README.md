@@ -7,7 +7,7 @@
 
 I'm
 Full Stack Web Developer and
-The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs,Express Js) front-end development (HTML5, CSS3, Javascript,ReactJs,Redux,Three Js,Bootstrap5,Tailwind CSS), Server Administrator(AWS),database(MongoDB).
+The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs,Express Js) front-end development (HTML5, CSS3, Javascript,ReactJs,Three Js,Bootstrap5,Tailwind CSS), Server Administrator(AWS),database(MongoDB).
 
 <div height="40">&nbsp;</div>
 
@@ -58,6 +58,9 @@ Languages and Tools:
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="120" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="AWS" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
 ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
 <!--
