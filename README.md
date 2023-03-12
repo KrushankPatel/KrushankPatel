@@ -38,9 +38,27 @@ Languages and Tools:
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="bootstrap" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
- 
-    
-    
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+   <a href="https://threejs.org/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeZO33M7obqECi3Rqn3rud4XRnr93i3Zf7E70pISrVNSVKanASQvRxh75f-jO5AgFdbDQ&usqp=CAU"  alt="Threejs" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+     <a href="https://nodejs.org" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" alt="express" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
 ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
 <!--
 **Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
