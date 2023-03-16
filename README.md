@@ -8,8 +8,8 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Krushank-green)](https://krushankpatel.github.io/Krushank_Profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Krushank-yellow)](https://stackoverflow.com/users/21152402/krushank-patel)
 
-As someone who is always passionate for learning more about tech and life.I'm Full Stack Web Developer and
-and loves working with cutting edge tools and technologies.I have a wide range of skills that include back-end development using open source technologies (NodeJs,Express Js,NPM) and front-end development (HTML5, CSS3, Javascript,ReactJs,Redux,Three Js,Bootstrap5,Tailwind CSS) and Server Administrator(AWS) and database(MongoDB).I'm currently learning these technologies to make myself advanced web developer. 
+As someone who is always passionate for learning more about tech and life.Currently,I'm Learning Full Stack Web Development and
+and loves working with cutting edge tools and technologies.I have goal to work with a wide range of skills that include back-end development using open source technologies (NodeJs,Express Js,NPM) and front-end development (HTML5, CSS3, Javascript,ReactJs,Redux,Three Js,Bootstrap5,Tailwind CSS) and Server Administrator(AWS) and database(MongoDB).I'm currently learning these technologies to make myself advanced web developer. 
  <div height="40">&nbsp;</div>
 
 
