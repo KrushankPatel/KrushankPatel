@@ -12,9 +12,9 @@ and loves working with cutting edge tools and technologies.I have a wide range o
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KrushankPatel.visitor-badge&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=KrushankPatel.visitor-badge&left_color=green&right_color=red height="300")
 
-  <img src="https://visitor-badge.glitch.me/badge?page_id="KrushankPatel" alt="visitor badge"/>
+
  
 <!-- <div>
   <h4>🏆 Github Profile Trophy</h4>
