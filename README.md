@@ -25,8 +25,7 @@ The crossover between design and programming has always been of interest to me. 
 <br>
 
 Languages and Framworks: 
-
-<div height="40">&nbsp;</div>
+<br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&margin-top=20px)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
