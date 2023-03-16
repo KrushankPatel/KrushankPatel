@@ -1,3 +1,5 @@
+<img align="center" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" alt="krushankpatel" />
+
 ### Hi Developers 👋
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <br>
@@ -15,9 +17,9 @@ and loves working with cutting edge tools and technologies.I have a wide range o
 <div height="20">&nbsp;</div>
 
 
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushankpatel&show_icons=true&locale=en&layout=compact" alt="krushankpatel" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushankpatel&show_icons=true&locale=en&layout=compact" alt="krushankpatel" /></p>
 
-<span width="50%">&nbsp;<img align="center" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" alt="krushankpatel" /></p>
+
 <br>
 <br>
 
