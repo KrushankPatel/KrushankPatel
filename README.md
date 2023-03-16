@@ -52,4 +52,4 @@ Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <div height="40">&nbsp;</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krushankpatel&" alt="krushankpatel" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krushankpatel&" alt="krushankpatel" /></p>
