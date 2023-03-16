@@ -6,15 +6,16 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Krushank-green)](https://krushankpatel.github.io/Krushank_Profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Krushank-yellow)](https://stackoverflow.com/users/21152402/krushank-patel)
 
-I'm
-Full Stack Web Developer and
-The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs,Express Js) front-end development (HTML5, CSS3, Javascript,ReactJs,Three Js,Bootstrap5,Tailwind CSS), Server Administrator(AWS),database(MongoDB).
+As someone who is always passionate for learning more about tech and life.I'm Full Stack Web Developer and
+and loves working with cutting edge tools and technologies.I have a wide range of skills that include back-end development using open source technologies (NodeJs,Express Js,NPM) and front-end development (HTML5, CSS3, Javascript,ReactJs,Redux,Three Js,Bootstrap5,Tailwind CSS) and Server Administrator(AWS) and database(MongoDB).I'm currently learning these technologies to make myself advanced web developer. 
 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
-
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ 
+ 
 <!-- <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
