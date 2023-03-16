@@ -1,5 +1,6 @@
 ### Hi Developers 👋
-
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/KrushankPatel)
+<br>
 <!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Krushank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Krushank--01629954/)](https://www.linkedin.com/in/krushank-patel-24b825252)
 [![Website Badge](https://img.shields.io/badge/WebSite-Krushank-green)](https://krushankpatel.github.io/Krushank_Profile/)
@@ -9,10 +10,10 @@ I'm
 Full Stack Web Developer and
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs,Express Js) front-end development (HTML5, CSS3, Javascript,ReactJs,Three Js,Bootstrap5,Tailwind CSS), Server Administrator(AWS),database(MongoDB).
 
-<div height="40">&nbsp;</div>
+
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
-<div height="40">&nbsp;</div>
+
 
 <!-- <div>
   <h4>🏆 Github Profile Trophy</h4>
