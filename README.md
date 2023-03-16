@@ -12,6 +12,10 @@ and loves working with cutting edge tools and technologies.I have a wide range o
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krushankpatel" alt="krushankpatel" /></a> </p>
+<div height="20">&nbsp;</div>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushankpatel&show_icons=true&locale=en&layout=compact" alt="krushankpatel" /></p></br>
 <br>
 <br>
 
@@ -46,10 +50,6 @@ Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<div height="40">&nbsp;</div>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushankpatel&show_icons=true&locale=en&layout=compact" alt="krushankpatel" /></p></br>
 <div height="40">&nbsp;</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krushankpatel&" alt="krushankpatel" /></p>
