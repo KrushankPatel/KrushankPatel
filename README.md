@@ -21,7 +21,8 @@ The crossover between design and programming has always been of interest to me. 
     <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
   </a>
 </div> -->
-<div height="40">&nbsp;</div>
+<br>
+<br>
 
 Languages and Framworks: 
 
