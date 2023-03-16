@@ -15,9 +15,9 @@ and loves working with cutting edge tools and technologies.I have a wide range o
 <div height="20">&nbsp;</div>
 
 
-<span width="80%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushankpatel&show_icons=true&locale=en&layout=compact" alt="krushankpatel" /></p>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushankpatel&show_icons=true&locale=en&layout=compact" alt="krushankpatel" /></p>
 
-<span width="50%">&nbsp;<img align="center" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" alt="krushankpatel" /></p>
+<span width="50%">&nbsp;<img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" alt="krushankpatel" /></p>
 <br>
 <br>
 
