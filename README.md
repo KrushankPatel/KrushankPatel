@@ -1,5 +1,5 @@
 ### Hi Developers 👋
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/KrushankPatel?/github/:user?label=Follow)](https://github.com/KrushankPatel)
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <br>
 <!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Krushank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Krushank--01629954/)](https://www.linkedin.com/in/krushank-patel-24b825252)
