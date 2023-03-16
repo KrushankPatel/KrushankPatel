@@ -14,9 +14,10 @@ and loves working with cutting edge tools and technologies.I have a wide range o
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krushankpatel" alt="krushankpatel" /></a> </p>
 <div height="20">&nbsp;</div>
 
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" height="auto">
-<span align="right" width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushankpatel&show_icons=true&locale=en&layout=compact" alt="krushankpatel" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushankpatel&show_icons=true&locale=en&layout=compact" alt="krushankpatel" /></p>
+
+<p>&nbsp;<img align="center" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="krushankpatel" /></p>
 <br>
 <br>
 
