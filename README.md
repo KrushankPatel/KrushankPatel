@@ -12,7 +12,7 @@ and loves working with cutting edge tools and technologies.I have a wide range o
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KrushankPatel.visitor-badge&left_color=green&right_color=red height="300")
+![visitors](https://visitor-badge.glitch.me/badge?page_id=KrushankPatel.visitor-badge&left_color=green&right_color=red&height="300")
 
 
  
