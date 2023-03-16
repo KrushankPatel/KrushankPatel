@@ -1,5 +1,5 @@
 ### Hi Developers 👋
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/KrushankPatel)
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/KrushankPatel?/github/followers/:user?label=Follow)](https://github.com/KrushankPatel)
 <br>
 <!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Krushank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Krushank--01629954/)](https://www.linkedin.com/in/krushank-patel-24b825252)
@@ -11,7 +11,7 @@ and loves working with cutting edge tools and technologies.I have a wide range o
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KrushankPatel.visitor-badge&left_color=green&right_color=red)
 
  
