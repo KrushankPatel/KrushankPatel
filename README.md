@@ -13,7 +13,7 @@ and loves working with cutting edge tools and technologies.I have a wide range o
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushankpatel&show_icons=true&locale=en&layout=compact" alt="krushankpatel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krushankpatel&show_icons=true&locale=en" alt="krushankpatel" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=krushankpatel&show_icons=true&locale=en" alt="krushankpatel" /></p>
 
  
 <!-- <div>
