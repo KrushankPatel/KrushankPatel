@@ -9,7 +9,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Krushank-yellow)](https://stackoverflow.com/users/21152402/krushank-patel)
 
 Hello Gyus!!My name is KRUSHANK PATEL someone who is always passionate for learning more about tech and life.Currently,I'm Learning Full Stack Web Development and
-and loves working with cutting edge tools and technologies.I have goal to work with a wide range of skills that include back-end development using open source technologies (NodeJs,Express Js,NPM) and front-end development (HTML5, CSS3, Javascript,ReactJs,Redux,Three Js,Bootstrap5,Tailwind CSS) and Server Administrator(AWS) and database(MongoDB).I'm currently learning these technologies to make myself advanced web developer. 
+and loves working with cutting edge tools and technologies.I have goal to work with a wide range of skills that include back-end development using open source technologies (NodeJs,Express Js,NPM) and front-end development (HTML5, CSS3, Javascript,ReactJs,Redux,Three Js,Bootstrap5,Tailwind CSS) and Server Administrator(AWS) and database(MongoDB).As a B.Tech IT student and Edureka intern, I am constantly striving to expand my knowledge and skills in the field of technology. 
  <div height="40">&nbsp;</div>
 
 
