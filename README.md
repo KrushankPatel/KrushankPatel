@@ -8,8 +8,11 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Krushank-green)](https://krushankpatel.github.io/Krushank_Profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Krushank-yellow)](https://stackoverflow.com/users/21152402/krushank-patel)
 
-Hello Gyus!!My name is KRUSHANK PATEL someone who is always passionate for learning more about tech and life.Currently,I'm Learning Full Stack Web Development and
-and loves working with cutting edge tools and technologies.I have goal to work with a wide range of skills that include back-end development using open source technologies (NodeJs,Express Js,NPM) and front-end development (HTML5, CSS3, Javascript,ReactJs,Redux,Three Js,Bootstrap5,Tailwind CSS) and Server Administrator(AWS) and database(MongoDB).As a B.Tech IT student and Edureka intern, I am constantly striving to expand my knowledge and skills in the field of technology. 
+Hello Gyus!!My name is KRUSHANK PATEL someone who is always passionate for learning more about tech and life.
+
+Currently,I'm Learning Full Stack Web Development and loves working with cutting edge tools and technologies.I have goal to work with a wide range of skills that include back-end development using open source technologies (NodeJs,Express Js,Mongoose,NPM) and front-end development (HTML5, CSS3, Javascript,ReactJs,Redux,Three Js,Bootstrap5) and Server Administrator(AWS) and database(MongoDB).
+
+As a B.Tech IT student and Edureka intern, I am constantly striving to expand my knowledge and skills in the field of technology. 
  <div height="40">&nbsp;</div>
 
 
@@ -28,7 +31,6 @@ Languages and Framworks:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&margin-top=20px)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
