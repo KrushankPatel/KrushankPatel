@@ -26,7 +26,7 @@ As a B.Tech IT student and Edureka intern, I am constantly striving to expand my
 <br>
 <br>
 
-Languages and Framworks: 
+## Languages and Framworks: 
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&margin-top=20px)
@@ -42,14 +42,14 @@ Languages and Framworks:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <div height="40">&nbsp;</div>
 
-Deployment platforms: 
+## Deployment platforms: 
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  <div height="40">&nbsp;</div>
 
-Tools: 
+## Tools: 
 <br>
 
 
