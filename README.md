@@ -20,7 +20,6 @@ As a B.Tech IT student and Edureka intern, I am constantly striving to expand my
 <div height="20">&nbsp;</div>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushankpatel&show_icons=true&locale=en&layout=compact" alt="krushankpatel" /></p><br/>
 
 
 <br>
@@ -59,4 +58,22 @@ As a B.Tech IT student and Edureka intern, I am constantly striving to expand my
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <div height="40">&nbsp;</div>
 
+
+
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br/>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krushankpatel&" alt="krushankpatel" /></p>
+<div height="20">&nbsp;</div>
+
+<p align="justify">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrushankPatel&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+ <span width="15">&nbsp;</span>
+  <img align="center" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=krushankpatel&show_icons=true&locale=en&layout=compact" alt="krushankpatel" />
+</p>
+</details>
+<br/>
