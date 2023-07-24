@@ -74,7 +74,7 @@ Visitors Count :
 <p align="justify">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrushankPatel&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
  <span width="15">&nbsp;</span>
-  <img align="center" height="200px" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs?username=krushankpatel&show_icons=true&locale=en&layout=compact" alt="krushankpatel" />
+  <img align="center" height="200px" width="350"  src="https://github-readme-stats.vercel.app/api/top-langs?username=krushankpatel&show_icons=true&locale=en&layout=compact" alt="krushankpatel" />
 </p>
 </details>
 <br/>
