@@ -19,8 +19,9 @@ As a B.Tech IT student and Edureka intern, I am constantly striving to expand my
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krushankpatel" alt="krushankpatel" width="100%" /></a> </p>
 <div height="20">&nbsp;</div>
 
+Visitors Count :
 
-
+![Visitor Count](https://profile-counter.glitch.me/KrushankPatel/count.svg)
 
 <br>
 <br>
